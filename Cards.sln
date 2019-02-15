@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{0586F820-25D0-4052-AFA8-3B6F8BB0E1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards.UnitTests", "Cards.UnitTests\Cards.UnitTests.csproj", "{DBD463A3-9423-409A-9C3B-6A01288FFD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0586F820-25D0-4052-AFA8-3B6F8BB0E1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0586F820-25D0-4052-AFA8-3B6F8BB0E1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0586F820-25D0-4052-AFA8-3B6F8BB0E1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0586F820-25D0-4052-AFA8-3B6F8BB0E1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD463A3-9423-409A-9C3B-6A01288FFD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD463A3-9423-409A-9C3B-6A01288FFD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD463A3-9423-409A-9C3B-6A01288FFD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD463A3-9423-409A-9C3B-6A01288FFD82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
